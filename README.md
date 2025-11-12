@@ -42,3 +42,18 @@ No frameworks. No build tools. Pure JS!
 ---
 
 ## Project Structure
+
+
+
+
+
+
+
+
+---
+
+## Local Development
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/sean592510/Black-jack-with-js.git
