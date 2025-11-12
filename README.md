@@ -42,6 +42,18 @@ No frameworks. No build tools. Pure JS!
 ---
 
 ## Project Structure
+Black-jack-with-js/
+├── index.html         # Main game page
+├── style.css          # Styling
+├── script.js          # Game logic
+├── cards/             # Card images (optional)
+│   ├── 2C.png
+│   ├── AH.png
+│   └── ...
+├── README.md          # This file
+└── LICENSE
+
+
 
 
 
