@@ -3,9 +3,9 @@
 A simple, interactive **Blackjack** game built with **HTML, CSS, and JavaScript**. Play against the dealer in your browser – no installation required!
 
 ![Blackjack Screenshot](https://via.placeholder.com/800x400?text=Blackjack+Game+Screenshot)  
-*(Replace with actual screenshot)*
 
-Live Demo: [https://sean592510.github.io/Black-jack-with-js](https://sean592510.github.io/Black-jack-with-js) *(if deployed)*
+
+Live Demo: [https://sean592510.github.io/Black-jack-with-js](https://sean592510.github.io/Black-jack-with-js) 
 
 ---
 
