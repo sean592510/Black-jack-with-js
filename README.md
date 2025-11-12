@@ -57,3 +57,8 @@ No frameworks. No build tools. Pure JS!
 1. **Clone the repo**
    ```bash
    git clone https://github.com/sean592510/Black-jack-with-js.git
+
+  2. cd Black-jack-with-js
+ 3.  open index.html   # macOS
+start index.html  # Windows
+xdg-open index.html  # Linux
