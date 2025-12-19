@@ -1,6 +1,6 @@
 # Black Jack with JS 🃏
 
-A simple, interactive **Blackjack** game built with **HTML, CSS, and JavaScript**. Play against the dealer in your browser – no installation required!
+A simple, interactive **Blackjack** game built with **HTML, CSS, and JavaScript**. Play against the dealer in your browser – no installation required
 
 ![Blackjack Screenshot](https://via.placeholder.com/800x400?text=Blackjack+Game+Screenshot)  
 
@@ -11,7 +11,7 @@ Live Demo: [https://sean592510.github.io/Black-jack-with-js](https://sean592510.
 
 ## Features
 
-- Classic Blackjack rules (Dealer stands on 17)
+- Classic Blackjack rules 
 - Hit, Stand, and New Game options
 - Visual card display with suits and ranks
 - Win/lose/draw detection
