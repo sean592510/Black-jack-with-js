@@ -37,7 +37,6 @@ Live Demo: [https://sean592510.github.io/Black-jack-with-js](https://sean592510.
 - **CSS3** – Styling & Animations
 - **Vanilla JavaScript** – Game logic & DOM manipulation
 
-No frameworks. No build tools. Pure JS!
 
 ---
 
@@ -74,3 +73,6 @@ Black-jack-with-js/
  3.  open index.html   # macOS
 start index.html  # Windows
 xdg-open index.html  # Linux
+
+---
+No frameworks were used in Development of this game/website
