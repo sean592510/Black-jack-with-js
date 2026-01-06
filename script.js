@@ -1,9 +1,8 @@
-// ===== PLAYER & GAME STATE =====
+
 const player = { name: "Alex", chips: 145, lives: 3 };
 let cards = [], sum = 0, hasBlackJack = false, isAlive = false;
 let gameActive = false;
 
-// ===== DOM =====
 const messageEl = document.getElementById("message-el");
 const cardsEl = document.getElementById("cards-el");
 const sumEl = document.getElementById("sum-el");
@@ -13,7 +12,6 @@ const startBtn = document.getElementById("start-btn");
 const newCardBtn = document.getElementById("new-card-btn");
 const gameArea = document.getElementById("game-area");
 
-// Update UI
 function updatePlayerUI() {
   playerEl.textContent = `${player.name}: $${player.chips}`;
   livesEl.textContent = `Lives: ${'❤️'.repeat(player.lives)} (${player.lives})`;
