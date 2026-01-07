@@ -12,9 +12,9 @@ function getRandomCard() {
     let randomNumber = Math.floor(Math.random() * 13) + 1
 
     if (randomNumber === 1) {
-        return 11 // Ace
+        return 11 
     } else if (randomNumber > 10) {
-        return 10 // Face cards
+        return 10 
     } else {
         return randomNumber
     }
